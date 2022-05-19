@@ -2,7 +2,8 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-> This is a Covid-tracker website, that displays Covid updates globaly!
+> This is a Covid-tracker website, that displays Covid-19 statistics for all countries arround the world!
+> ![Screenshot-1](./src/Assets/Screen-Shot.png) ![Screenshot-2](./src/Assets/Screen-Shot-2.png)
 
 ## Live Demo
 
@@ -32,7 +33,7 @@ $ npm run start # this will make webpack watching for your changes in code
 
 ## Authors
 
-👤 **Sediqullah Badakhsh**
+👤 **Sediqullah Badakhsh** -[Github](https://github.com/sediqullahbadakhsh) -[LinkedIn](https://www.linkedin.com/in/sediqullah)
 
 ## 🤝 Contributing
 
