@@ -7,7 +7,7 @@
 
 ## Live Demo
 
-[Covid-Tracker](covid-tracker21.netlify.app)
+[Covid-Tracker](https://covid-tracker21.netlify.app/)
 
 ## Video Demo
 
