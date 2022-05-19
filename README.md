@@ -2,9 +2,16 @@
 
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-> This is a Covid-tracker website, that displays Covid updates globaly!
+> This is a Covid-tracker website, that displays Covid-19 statistics for all countries arround the world!
+> ![Screenshot-1](./src/Assets/Screen-Shot.png) ![Screenshot-2](./src/Assets/Screen-Shot-2.png)
 
 ## Live Demo
+
+[Covid-Tracker](https://covid-tracker21.netlify.app/)
+
+## Video Demo
+
+[Live Video](https://www.loom.com/share/4d8e2ff0dc784f0cb55cea583ec88854)
 
 ## Setup
 
@@ -32,7 +39,7 @@ $ npm run start # this will make webpack watching for your changes in code
 
 ## Authors
 
-👤 **Sediqullah Badakhsh**
+👤 **Sediqullah Badakhsh** -[Github](https://github.com/sediqullahbadakhsh) -[LinkedIn](https://www.linkedin.com/in/sediqullah)
 
 ## 🤝 Contributing
 
