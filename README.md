@@ -7,6 +7,12 @@
 
 ## Live Demo
 
+[Covid-Tracker](covid-tracker21.netlify.app)
+
+## Vide Demo
+
+[Live Video](https://www.loom.com/share/4d8e2ff0dc784f0cb55cea583ec88854)
+
 ## Setup
 
 ### Clone this repository
