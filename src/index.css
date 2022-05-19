@@ -60,11 +60,13 @@ a.countries {
   align-self: flex-end;
   padding: 5px;
 }
+
 .country-data {
   align-self: center;
   justify-self: end;
   padding-top: 40px;
 }
+
 a.countries:nth-child(4n + 1) {
   background-color: #ce4176;
 }
